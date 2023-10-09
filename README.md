@@ -45,7 +45,39 @@ ___
 
 ## MÓDULO 2
 
-### Análise Multivariada de Dados
+### Análise Multivariada de Dados I
 - Análise fatorial exploratória
 - Regressão linear simples
 - Regressão linear multivariada
+
+### Análise Multivariada de Dados II
+- Regressão logística binomial
+- Regressão logística multinomial
+
+### Machine Learning I
+- 12 passos
+- Tipos de aprendizado de máquina
+- Algoritmos de classificação
+- Algoritmos de regressão
+- Algoritmos de clusterização
+
+### Machine Learning II
+- Regressão Linear (Linear Regression)
+- Regressão de Cume (Ridge Regression)
+- Regressão de Lasso (Lasso Regression)
+- KNN
+- Árvore de Decisão (Decision Tree)
+- SVM
+- Random Forest
+- XGBoost
+- Métricas de avaliação de modelos de ML
+
+## MÓDULO 3
+
+### Design de Experimentos
+- Abordagens experimentais
+- OFAT
+- Fatorial completo
+- Fatorial fracionado
+- Biblioteca pyDOE2
+- 
